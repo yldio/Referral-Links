@@ -13,5 +13,5 @@ Always go for the link with the fewest ✅'s (as long as it's the provider you w
 ## Add yours!
 To add your own, add your name and link to the bottom of a table.
 
-If there's no file, feel free to add a <Service>.md and create a table with your info there!
+If there's no file, feel free to add a `[service_type].md` and create a table with your info there!
 
