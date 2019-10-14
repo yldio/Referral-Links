@@ -2,6 +2,9 @@
 
 What it says on the tin 😄 Share referral links with colleagues so when switching broadband/energy etc. we can all benefit
 
+- [Broadband](./Broadband.md)
+- [Energy](./Energy.md)
+
 ## Using links
 Use the link from the top of the table, and once used add a ✅ in the used column.
 
