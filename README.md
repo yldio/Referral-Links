@@ -5,6 +5,7 @@ What it says on the tin 😄 Share referral links with colleagues so when switch
 - [Broadband](./Broadband.md)
 - [Energy](./Energy.md)
 - [Clothing](./Clothing.md)
+- [Finance](./Finance.md)
 
 ## Using links
 Use the link from the top of the table, and once used add a ✅ in the used column.
